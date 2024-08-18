@@ -1,7 +1,7 @@
 import socket
 import threading
 
-# Choosing Nickname with input
+# Choosing Nickname
 nickname = input("Choose your nickname: ")
 
 # Connecting To Server
